@@ -19,5 +19,6 @@ from app import views
 
 urlpatterns = [
     path('', views.home, name = "home"),
+    path('api', views.ChartData.as_view()),
     path('admin/', admin.site.urls),
 ]
