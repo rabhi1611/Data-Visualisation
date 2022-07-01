@@ -3,12 +3,14 @@ defusedxml==0.7.1
 diff-match-patch==20200713
 Django==4.0.5
 django-import-export==2.8.0
+djangorestframework==3.13.1
 et-xmlfile==1.1.0
 joblib==1.1.0
 MarkupPy==1.14
 numpy==1.23.0
 odfpy==1.4.1
 openpyxl==3.0.10
+pytz==2022.1
 PyYAML==6.0
 scikit-learn==1.1.1
 scipy==1.8.1
